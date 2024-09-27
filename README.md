@@ -1,4 +1,4 @@
-# 👋 I’m Ali!
+# 👋 Hi there, I’m Ali!
 
 ### I drive business transformation through data and analytics 🎆
 
