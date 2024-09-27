@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 I’m Ali!
 
-<!--
-**alixain10/alixain10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I drive business transformation through data and analytics 🎆
 
-Here are some ideas to get you started:
+- ✍ You can find my SQL projects here [portfolio](https://github.com/alixain10/SQL-Portfolio-Projects)
+- 👀 I’m interested in improving my skills in Excel and SQL
+- 🥅 My next goal will be to learn Python
+- 💞️ I’m looking to collaborate on Excel and SQL
+- ⚡ Fun Fact: My favorite comfort food is ramen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Feel free to connect with me on LinkedIn:
+[View LinkedIn Profile](https://www.linkedin.com/in/alixain10/)
+
+<br />
+
+### Languages and Data Analytics Tools:
+- [x] SQL
+- [x] Microsoft Excel
+- [x] SPSS
+
+<br />
+
+### Data Visualization Tools:
+- [x] Microsoft Excel
+- [x] Power BI
+- [x] Looker Studio
+
+<br />
+
+### Questionnaire Design and Analysis Tools:
+- [x] Survey Monkey
+- [x] Jotform
+
+<br />
+
+### Project Management Tools:
+- [x] Microsoft Projects
+- [x] Monday.com
+- [x] Github
+- [x] Slack
+- [x] Asana
+- [x] Google Workspace
+
+<br />
+
+### Customer Relationship Management (CRM):
+- [x] Monday.com
+- [x] HubSpot
+
+<br />
