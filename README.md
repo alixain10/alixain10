@@ -9,7 +9,7 @@
 - ⚡ Fun Fact: My favorite comfort food is ramen
 
 ### Feel free to connect with me on LinkedIn:
-[View LinkedIn Profile](https://www.linkedin.com/in/alixain10/)
+[View LinkedIn Profile](https://www.linkedin.com/in/alizain10/)
 
 <br />
 
