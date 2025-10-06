@@ -3,9 +3,9 @@
 ### I drive business transformation through data and analytics 🎆
 
 - ✍ You can find my SQL projects here [portfolio](https://github.com/alixain10/SQL-Portfolio-Projects)
-- 👀 I’m interested in improving my skills in Excel and SQL
-- 🥅 My next goal will be to learn Python
-- 💞️ I’m looking to collaborate on Excel and SQL
+- 👀 I’m interested in leveraging the use of AI to inform data-driven decisions
+- 🥅 My current goal is to learn Python
+- 💞️ I’m looking to collaborate on Excel and SQL projects
 - ⚡ Fun Fact: My favorite comfort food is ramen
 
 ### Feel free to connect with me on LinkedIn:
@@ -14,6 +14,7 @@
 <br />
 
 ### Languages and Data Analytics Tools:
+- [x] Python
 - [x] SQL
 - [x] Microsoft Excel
 - [x] SPSS
@@ -24,7 +25,8 @@
 - [x] Microsoft Excel
 - [x] Power BI
 - [x] Looker Studio
-
+- [x] Tableau
+ 
 <br />
 
 ### Questionnaire Design and Analysis Tools:
