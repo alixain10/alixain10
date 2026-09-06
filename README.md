@@ -4,7 +4,7 @@
 
 - ✍ You can find my SQL projects here [portfolio](https://github.com/alixain10/SQL-Portfolio-Projects)
 - 👀 I’m interested in leveraging the use of AI to inform data-driven decisions
-- 🥅 My current goal is keep upskilling myself
+- 🥅 My current goal is to keep upskilling myself
 - 💞️ I’m looking to collaborate on Excel, SQL, Python, and BI projects
 - ⚡ Fun Fact: My favorite comfort food is ramen
 
